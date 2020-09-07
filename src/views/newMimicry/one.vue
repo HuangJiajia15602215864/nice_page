@@ -4,20 +4,6 @@
     <div class="card right"></div>
   </div>
 </template>
-<script>
-  export default {
-    name: 'newMimicryOne',
-    data() {
-      return {
-
-      }
-    },
-    methods: {
-
-    }
-  }
-
-</script>
 <style>
   #newMimicryOne {
     /* 定义变量 */
